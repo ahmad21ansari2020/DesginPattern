@@ -1,0 +1,15 @@
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\bin\Debug\net6.0\CreditCard.exe
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\bin\Debug\net6.0\CreditCard.deps.json
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\bin\Debug\net6.0\CreditCard.runtimeconfig.json
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\bin\Debug\net6.0\CreditCard.dll
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\bin\Debug\net6.0\CreditCard.pdb
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.csproj.AssemblyReference.cache
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.AssemblyInfoInputs.cache
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.AssemblyInfo.cs
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.csproj.CoreCompileInputs.cache
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.dll
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\refint\CreditCard.dll
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.pdb
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\CreditCard.genruntimeconfig.cache
+H:\web\DesginPattern\FactoryDesginPattern\CreditCard\obj\Debug\net6.0\ref\CreditCard.dll

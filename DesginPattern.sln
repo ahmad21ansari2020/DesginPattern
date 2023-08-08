@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditCard", "FactoryDesginPattern\CreditCard\CreditCard.csproj", "{815A98E2-C7DA-42FE-A54F-F24245E11E28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryDesginPattern", "FactoryDesginPattern", "{5897E20F-72EC-4141-BD79-0437CB2E3F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815A98E2-C7DA-42FE-A54F-F24245E11E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815A98E2-C7DA-42FE-A54F-F24245E11E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815A98E2-C7DA-42FE-A54F-F24245E11E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815A98E2-C7DA-42FE-A54F-F24245E11E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{815A98E2-C7DA-42FE-A54F-F24245E11E28} = {5897E20F-72EC-4141-BD79-0437CB2E3F4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28071D8B-D7EF-4DF3-82CD-8E92F40E71D5}
+	EndGlobalSection
+EndGlobal
